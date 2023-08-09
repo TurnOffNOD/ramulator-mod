@@ -1,4 +1,5 @@
 *.swp
+*.stats
 
 # Compiled Object files
 obj/
